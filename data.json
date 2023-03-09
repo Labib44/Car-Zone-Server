@@ -1,0 +1,43 @@
+[
+	{
+		"category":"sports",
+		"price": 1585,
+		"originalPrice": 1205,
+		"picture": "https://i.ibb.co/4jBtHpL/vincent-camacho-CKPnrq-k7-TU-unsplash.jpg",
+		"name": "Hyundai Verna",
+		"location": "mirpur",
+		"usedTime": "6 month",
+		"Time": "11:10pm",
+		"date": "11/24/2022",
+        "sellerName": "Ranvir Kapur",
+		"details": "Hyundai Verna price starts at ₹ 9.63 Lakh and goes upto ₹ 15.71 Lakh (Avg. ex-showroom). Verna comes in 12 variants. Verna price for top model in petrol is ₹ 14.57 Lakh. Verna price for base model in diesel is ₹ 11.27 Lakh. Whereas the price of Verna automatic version starts from ₹ 12.68 Lakh."
+	},
+	{
+		"category":"sports",
+		"price": 385,
+		"originalPrice": 585,
+		"picture": "https://i.ibb.co/3vrJVf2/vignesh-rajendran-7vb-MRk-LTIuw-unsplash.jpg",
+		"name": "Hyundai Grand i10 NIOS",
+		"location": "mirpur",
+		"usedTime": "7 month",
+		"Time": "3:10pm",
+		"date": "04/04/2023",
+        "sellerName": "Hrithik Roshan",
+		"details": "Hyundai Verna price starts at ₹ 9.63 Lakh and goes upto ₹ 15.71 Lakh (Avg. ex-showroom). Verna comes in 12 variants. Verna price for top model in petrol is ₹ 14.57 Lakh. Verna price for base model in diesel is ₹ 11.27 Lakh. Whereas the price of Verna automatic version starts from ₹ 12.68 Lakh."
+	},
+	{
+		"category":"Cruiser",
+		"price": 2500,
+		"originalPrice": 3200,
+		"picture": "https://i.ibb.co/hRG2dGF/spencer-davis-DFn-CCREx-Ddc-unsplash.jpg",
+		"name": "Hyundai i20",
+		"location": "Motijil",
+		"usedTime": "9 month",
+		"Time": "11:00pm",
+		"date": "01/05/2023",
+        "sellerName": "Katrina Kaif",
+		"details": "the i20 price start at ৳ 1,278,386 in Bangladesh. check out i20 Car feature, specification and mileage.Hyundai i20 2 Wheeler manufactured with advanced technological solutions that provides high performance. The model comes from Hyundai's house, who is famous for its exceptional quality commercial vehicles. You can get Hyundai i20 price, features, mileage, reviews, image and other details. Just be with us."
+	}
+	
+	
+]
